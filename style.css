@@ -1,0 +1,91 @@
+﻿.body {
+    width: 6%;
+    height: 25%;
+    background: blue;
+    position: absolute;
+    margin-left: 65px;
+}
+.leftarm{
+    width: 2%;
+    height: 10%;
+    border: 3px solid black;
+    position: absolute;
+    left: 20px;
+    transform: rotate(20deg)
+
+}
+.rightarm {
+    width: 2%;
+    height: 10%;
+    border: 3px solid black;
+    position: absolute;
+    left: 165px;
+    transform: rotate(160deg)
+}
+.lefthita {
+    width: 2%;
+    height: 10%;
+    border: 3px solid black;
+    position: absolute;
+    left: 75px;
+    top: 325px;
+}
+.righthita {
+    width: 2%;
+    height: 10%;
+    border: 3px solid black;
+    position: absolute;
+    left: 120px;
+    top: 325px;
+}
+.leftbinti {
+    width: 2%;
+    height: 10%;
+    background;
+    black;
+    border: 3px solid black;
+    position: absolute;
+    left: 75px;
+    top: 395px;
+}
+.rightbinti {
+    width: 2%;
+    height: 10%;
+    background;
+    black;
+    border: 3px solid black;
+    position: absolute;
+    left: 120px;
+    top: 395px;
+}
+.test1 {
+    width: 10%;
+    position: absolute;
+    left: -20px;
+    top: 465px;
+}
+.test{
+    width:10%;
+    position: absolute;
+    left: 120px;
+    top: 465px;
+}
+
+.oll {
+    width: 2%;
+    height: 10%;
+    border: 3px solid black;
+    position: absolute;
+    transform: rotate(110deg);
+    top: 215px;
+    left: 20px;
+}
+.ol{
+    width: 2%;
+    height: 10%;
+    border: 3px solid black;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    transform: rotate(70deg);
+}
